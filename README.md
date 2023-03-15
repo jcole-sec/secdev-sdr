@@ -1,6 +1,6 @@
 ### secdev-sdr
 Software Defined Radio Scripts
-
+- [Confluence](https://secdev.atlassian.net/wiki/spaces/HAR/pages/2491973633/Ettus+Research+USRP+B200)
 
 #### Drivers - Linux
 
