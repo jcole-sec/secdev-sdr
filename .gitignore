@@ -1,2 +1,4 @@
 .github/*.md
-fm_recording*
+ettus/fm_recording*]
+rtl-sdr/rtl_recording*
+rtl-sdr/*.md
